@@ -7,7 +7,7 @@ Like Solving DSA Problems and doing Web Development.
 <a href="https://www.linkedin.com/in/saurav-sharma-b454411a2/">
 <img alt="Saurav LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"style="max-width: 100%;" width="22px" align="left">
   </a>
-  
+  <br/>
   🌱 I’m currently learning Full Stack Web Development
 
 
