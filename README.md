@@ -10,8 +10,7 @@ Like Solving DSA Problems and doing Web Development.
   <br/>
   🌱 I’m currently learning Full Stack Web Development
   
-  Skills Known
-<img alt="JavaScript" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bitsrc.io%2Ffeatures-of-javascript-you-probably-never-used-4c117ba3f025&psig=AOvVaw0Zjf8rbOxkDRc2Wa4gSOWA&ust=1641972204598000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIja1q6VqfUCFQAAAAAdAAAAABAD" style="max-width:100%;" width="22px" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-bit)]
 
 
 
