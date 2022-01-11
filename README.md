@@ -10,7 +10,7 @@ Like Solving DSA Problems and doing Web Development.
   <br/>
   🌱 I’m currently learning Full Stack Web Development
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-bit)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-bit&theme=cobalt&show_icons=true))
 
 
 
