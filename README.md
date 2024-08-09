@@ -1,14 +1,4 @@
-### Hi I am Saurav 👋
-
-I am currently a 3rd year student at Jaypee Institute of Information Technology pursuing BTech in CSE.
-Like Solving DSA Problems and doing Web Development.
-
-
-<a href="https://www.linkedin.com/in/saurav-sharma-b454411a2/">
-<img alt="Saurav LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"style="max-width: 100%;" width="22px" align="left">
-  </a>
-  <br/>
-  🌱 I’m currently learning Full Stack Web Development
+I am a dedicated Software Engineer with experience in front-end and back-end development, particularly in ReactJs and React Native. I have successfully enhanced user engagement and satisfaction through intuitive design and feature implementation. At Chaayos, I improved the Dine-In app's user experience, resulting in a 15% increase in user engagement and a 10% boost in sales. At Texlaculture, I developed critical modules such as PMS, LMS, and CRM, increasing user engagement by 25%. My work on the audit system backend and APIs using Java and Spring Boot led to a 10% increase in client satisfaction. I excel in problem-solving, optimizing app navigation, and ensuring seamless integration of features to enhance user experiences. I am committed to delivering high-quality software solutions that align with user needs and business goals
   
   ![Saurav GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurav-bit&theme=cobalt&show_icons=true&layout=compact)
   
